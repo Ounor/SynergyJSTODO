@@ -1,8 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   loadNotes();
-  console.log(11);
 });
-console.log(222211);
+
 
 const addNote = () => {
   const noteInput = document.getElementById("note-input");
